@@ -1,0 +1,7 @@
+{
+  "utterance": "Feedback",
+  "intent_type": "IntroductionIntent",
+  "intent": {
+    "IntroductionKeyword": "Feedback"
+  }
+}

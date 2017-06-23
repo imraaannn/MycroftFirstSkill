@@ -1,0 +1,7 @@
+{
+  "utterance": "91763789",
+  "intent_type": "AskingPhoneIntent",
+  "intent": {
+    "AskingPhoneKeyword": "91763789"
+  }
+}

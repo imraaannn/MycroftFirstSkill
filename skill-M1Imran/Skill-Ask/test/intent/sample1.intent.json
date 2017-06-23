@@ -1,0 +1,7 @@
+{
+  "utterance": "Imran",
+  "intent_type": "AskingNameIntent",
+  "intent": {
+    "AskingNameKeyword": "Imran"
+  }
+}
